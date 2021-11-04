@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Libélula Publicaciones",
+    "description": "",
+    "home_page_url": "https://libelula.utopix.cc",
+    "feed_url": "https://libelula.utopix.cc/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Utopix"
+    },
+    "items": [
+        {
+            "id": "https://libelula.utopix.cc/libelula-publicaciones.html",
+            "url": "https://libelula.utopix.cc/libelula-publicaciones.html",
+            "title": "Libélula Publicaciones",
+            "summary": "Arte y ciencia a tu alcance Una editorial artesanal textos con contenidos literarios, artísticos y científicos. Hacemos libros que tienen como principio la dedicación y cuidado en cada uno de nuestros trabajos, de manera de presentar libros atrayentes y de calidad a bajo costo. Nuestros&hellip;",
+            "content_html": "<h2>Arte y ciencia a tu alcance</h2>\n<p>Una editorial artesanal textos con contenidos literarios, artísticos  y científicos.</p>\n<p>Hacemos libros que tienen como principio la dedicación y cuidado en cada uno de nuestros trabajos, de manera de presentar libros atrayentes y de calidad a bajo costo.</p>\n<p>Nuestros primeros títulos son:</p>\n<ul>\n<li>Física Divertida: Cuaderno de experimentos #1</li>\n<li>Cangrejo, el crustáceo más tremendo de la playa de Carolina Álvarez y Julio Mosquera (de 3 años en adelante).</li>\n<li>Por qué el sapo es aplastado. Cuento popular afroecuatoriano.</li>\n</ul>\n<h2>Contactos:</h2>\n<p><a href=\"mailto:libelula@utopix.cc\">libelula@utopix.cc</a></p>\n<p><a href=\"tel:+584121619683\">+58 4121619683</a></p>\n<hr>\n<figure class=\"post__image align-center\"><a href=\"https://utopix.cc\"><img loading=\"lazy\"  src=\"https://libelula.utopix.cc/media/posts/1/utopix-web-logo.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://libelula.utopix.cc/media/posts/1/responsive/utopix-web-logo-xs.png 300w ,https://libelula.utopix.cc/media/posts/1/responsive/utopix-web-logo-sm.png 480w ,https://libelula.utopix.cc/media/posts/1/responsive/utopix-web-logo-md.png 768w ,https://libelula.utopix.cc/media/posts/1/responsive/utopix-web-logo-lg.png 1024w ,https://libelula.utopix.cc/media/posts/1/responsive/utopix-web-logo-xl.png 1360w ,https://libelula.utopix.cc/media/posts/1/responsive/utopix-web-logo-2xl.png 1600w\"  alt=\"Utopix logo\" width=\"189\" height=\"50\"></figure></a></p>",
+            "image": "https://libelula.utopix.cc/media/posts/1/logo-web-2.png",
+            "author": {
+                "name": "Utopix"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-04T00:28:39-04:00",
+            "date_modified": "2021-11-04T00:41:12-04:00"
+        }
+    ]
+}
